@@ -1,0 +1,3 @@
+Muchachos, el ingreso al admin es
+admin
+contra: admin
